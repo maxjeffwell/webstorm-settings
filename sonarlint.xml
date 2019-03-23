@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9adfcbdf9adfc9df93dfcedf9edf9ddf92df9edfcedfccdfcedf9adf99dfc8df9fdf93df98df98df9ddfcedf9edf9edf92dfc8dfcedf93dfcbdf92df9fdf98df9fdfc8df98df9edf9adfcfdf9ddfcb</token>
+          <option name="name" value="FirstCloudSecondMachine" />
+          <organizationKey>maxjeffwell-github</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

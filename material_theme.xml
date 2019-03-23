@@ -1,0 +1,20 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="darkTitleBar" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="16" />
+    <option name="accentColor" value="b6ffab" />
+    <option name="highlightColor" value="54cb5f" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="6ffbe2e7:1672dcd4298:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>
