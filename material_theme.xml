@@ -11,9 +11,10 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="treeFontSize" value="16" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="b6ffab" />
     <option name="highlightColor" value="54cb5f" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="nightowl" />
     <option name="userId" value="6ffbe2e7:1672dcd4298:-8000" />
     <option name="version" value="4.5.1" />
   </component>

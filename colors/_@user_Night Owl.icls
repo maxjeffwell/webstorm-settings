@@ -4,7 +4,7 @@
     <property name="created">2018-10-12T12:44:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-03-23T02:37:05</property>
+    <property name="modified">2019-09-29T13:34:38</property>
     <property name="originalScheme">Night Owl</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -19,7 +19,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -31,7 +31,7 @@
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="7e57c2" />
     <option name="CARET_ROW_COLOR" value="232235" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="589c7d" />
     <option name="DELETED_LINES_COLOR" value="ff5370" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -357,6 +357,12 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6cdada" />
+        <option name="BACKGROUND" value="11627" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -1135,6 +1141,9 @@
     <option name="HTML_ATTRIBUTE_VALUE">
       <value />
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -1335,11 +1344,13 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddf7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
@@ -2213,9 +2224,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="5f7e97" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
